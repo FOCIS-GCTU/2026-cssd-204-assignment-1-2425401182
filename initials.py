@@ -6,7 +6,7 @@
 # Name: Ofori Deborah Appiah
 # STUDENT ID: 2425401182
 # Email: 2425401182@live.gctu.edu.gh
-# Grader: Deborah
+# Grader: Augustus Backman
 #
 # On my honor, Ofori Deborah Appiah, this programming assignment is my own work
 # and I have not provided this code to any other student.
